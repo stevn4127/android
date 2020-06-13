@@ -154,4 +154,7 @@
   <!-- Tools -->
   <project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="master" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
+
+  <!-- Stebo's shitty repos -->
+  <project path="frameworks/base" name="stevn4127/frameworks_base" groups="pdk-cw-fs,pdk-fs" />
 </manifest>
